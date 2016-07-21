@@ -1,0 +1,11 @@
+{
+  "name": "john-react-hello-world",
+  "description": "Johns Superpowers Unleash Program",
+  "keywords": [ "react", "reactjs", "hello-world" ],
+  "repository": "https://github.com/jacekelgda/john-react-hello-world.git",
+  "website": "https://github.com/jacekelgda/john-react-hello-world.git",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}

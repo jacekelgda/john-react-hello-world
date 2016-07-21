@@ -1,0 +1,32 @@
+{
+  "name": "john-react-hello-world",
+  "version": "0.0.0",
+  "private": true,
+  "license": "none",
+  "description": "Johns Superpowers Unleashmen Program #1",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacekelgda/john-react-hello-world"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jacekelgda",
+  "bugs": {
+    "url": "https://github.com/jacekelgda/john-react-hello-world/issues"
+  },
+  "homepage": "https://github.com/jacekelgda/john-react-hello-world",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
